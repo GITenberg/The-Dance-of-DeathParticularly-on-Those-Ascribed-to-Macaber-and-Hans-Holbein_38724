@@ -1,0 +1,44 @@
+_repo: The-Dance-of-DeathParticularly-on-Those-Ascribed-to-Macaber-and-Hans-Holbein_38724
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Holbein, Hans
+    aliases:
+    - Holbein, Hans, the Younger
+    - Holbein, Hans, der Jüngere
+    birthdate: 1497
+    deathdate: 1543
+    gutenberg_agent_id: '24893'
+    url: http://www.gutenberg.org/2009/agents/24893
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hans_Holbein_the_Younger
+    - http://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douce, Francis
+    alias: Douce, F. (Francis)
+    birthdate: 1757
+    deathdate: 1834
+    gutenberg_agent_id: '39626'
+    url: http://www.gutenberg.org/2009/agents/39626
+description: ''
+gutenberg_issued: '2012-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38724'
+  lccn: 02011696
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Old Testament -- Illustrations'
+- !lcc 'N'
+- !lcsh 'Dance of death'
+title: "The Dance of Death\r\nExhibited in Elegant Engravings on Wood with a Dissertation\
+  \ on the Several Representations of that Subject but More Particularly on Those\
+  \ Ascribed to Macaber and Hans Holbein"
+url: http://www.gutenberg.org/ebooks/38724
