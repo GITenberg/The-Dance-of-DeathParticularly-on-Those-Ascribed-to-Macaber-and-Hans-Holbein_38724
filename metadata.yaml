@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '39626'
     url: http://www.gutenberg.org/2009/agents/39626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38724#The-Dance-of-DeathParticularly-on-Those-Ascribed-to-Macaber-and-Hans-Holbein
 gutenberg_issued: '2012-01-31'
 gutenberg_type: Text
 identifiers:
